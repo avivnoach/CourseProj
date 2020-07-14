@@ -1,0 +1,14 @@
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\bin\Debug\courseProjQ22.exe.config
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\bin\Debug\courseProjQ22.exe
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\bin\Debug\courseProjQ22.pdb
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.csprojAssemblyReference.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.Properties.Resources.resources
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.csproj.GenerateResource.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.csproj.CoreCompileInputs.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.exe
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.pdb
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.loginWindow.resources
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.menuWindow.resources
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.LearnWindow.resources
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.TriviaWindow.resources
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\courseProjQ22\obj\Debug\courseProjQ22.inspectResults.resources

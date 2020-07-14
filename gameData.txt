@@ -1,0 +1,40 @@
+1;0;The first prime minister of israel was David Ben Gurion;true;false
+2;1;How many jews lived in Israel at the beginning?;716000;200000/198620/500000
+3;1;When was Israel declared?;14th of may 1948;14th of june1948/14th of may 1958/18th of may 1948
+4;0;The third prime minister of israel was Golda Meir;false;true
+5;0;The eighth prime minister of israel was Shimon Peres;true;false
+6;1;What's the official name of Antebe operation?;Operation Jonathan;Operation Amud Anan/Operation Black Bky/operation White Bird
+7;1;Who is the first Israeli who won a Nobel prize?;Shai Agnon;Dana International/Albert Einstein/David Ben Gurion
+8;0;The only woman who was a Prime Minister in Israel is Golda Meir;true;false
+9;1;When was the war of attrition began?;1969;1967/1970/1957
+10;1;Against which country Isreal Fought in the war of attrition?;Egypt;London/Iran/Iraq
+11;1;How much time did the war of independence last?;20 months;15 months/10 months/25 months
+12;1;Who was the 20th commander in chief of the Israel Defense Forces?;Benjemin Gantz;Benjemin Netanyahu/Moshe Yaalon/Tzvi Tzur
+13;1;Which City is the oldest?;Jerusalem;Akko/Tel Aviv/Lod
+14;1;How many Israeli people won a Nobel prize?;12;14/13/16
+15;1;In what year did the Shekel took the Lira's place?;1980;1977/1962/1975
+16;1; Thunder Ball was the military name of operaion:;Antebe;Amud Anan/Peace At All Costs/Get Them All
+17;1;Who is the first Israeli who was chosen in the NBA draft?;Doron Shefer;Omri Kaspi/Oded Katash/Nadav Gedj
+18;1;What was on the roof of Migdal Shalom?;Lona Park;Pool/Theater/Helicopter landing site
+19;0;Ariel Sharon died on 2014;true;false
+20;0;Yair Lapid Wrote the song Living In Shenkin;true;false
+21;1;In the first government, Golda Meir served as a:;Health Minister;Prime Minister/Water Minister/Education Minister
+22;1;What is the name of the first woman-pilot in Israel Defence Forces?;Roni zuckerman;Helen Keler/Ellie Dobleske/Alice Miller
+23;0;Israel Defence Force was established on 1949;false;true
+24;0;Before the Independecy Decleration Israel didn't have a capital city;true;false
+25;0;The Balfour Declaration was signed on 1917;true;false
+26;0;The official Symbol of Israel Is The Magen David;false;true
+27;1;After Who the Uzi gun was named?;Uzi Gal;Uzi Hitman/Uzi Goldenberg/Moshe Uzi
+28;1;What is the name of Israel's law department?;Hakneset;Shield Of Piece/Blue Sky/Menora
+29;0;Five people from Israel had won an Olimpic Medal;true;false
+30;1;In which year Yad Vashem was established?;1953;1960/1950/1951
+31;0;Itzhak Rabin was chosen for "person of the year" of Time magazine;true;false
+32;1;Which country has the longest border with Israel?;Jorden;Egypt/Seria/Iran
+33;1;Which of the animals are Kosher?;Giraffe;Camal/Bee/Dog
+34;1;How many time the Eurovision was in Israel?;2;0/1/3
+35;0;Ruven Rivlin is vegeterian;true;false
+36;1;What was the first page on the hebrew Wikipedia?;Math;Israel/Language/David Ben Gurion
+37;0;The piece with Egypt was signed on 1970;false;true
+38;0;Shai Agnon wrote the "Tikva";false;true
+39;0;Between the two Lebanon wars there was 24 years;true;false
+40;0;The first commander in chief of the Israel Defense Forces was Itzhak Rabin;fasle;true

@@ -1,0 +1,40 @@
+1;History;Israel was declared on the 14th of may 1948
+2;History;After the declaration, there was 716000 Jews in Israel
+3;History;The first prime minister of israel was David Ben Gurion.
+4;History;The third prime minister of israel was Levi Eshkol.
+5;History;The eighth prime minister of israel was Shimon Peres.
+6;History;The official name of Antebe operation was Operation Jonathan.
+7;History;The first Israeli who won a Nobel prize is Shay Agnon.
+8;History;The only woman who was a Prime Minister in Israel is Golda Meir.
+9;History;the war of attrition began on 1969.
+10;History;Isreal Fought in the war of attrition against Egypt.
+11;History;The war of independence last 20 months.
+12;History;The 20th commander in chief of the Israel Defense Forces was Benjemin Gantz. 
+13;History;12 Israeli people had won a Nobel Prize.
+14;History;The city of Beersheba has the highest number of chess grandmasters per capita in the world.
+15;History;The Shekel Switched the Lira on 1980.
+16;History;Operation Antebe was also called Thender Ball.
+17;History;The first Israeli who was chosen in the NBA draft is Doron Shefer.
+18;History;There was a Lona Park on the roof of Migdal Shalom.
+19;History;Ariel Sharon died on 2014
+20;History;Yair Lapid Wrote the song Living In Shenkin.
+21;History;In the first government, Golda Meir served as a Health Minister.
+22;History;The name of the first woman-pilot in Israel Defence Forces is Roni zuckerman.
+23;History;Israel Defence Force was established on 1948.
+24;History;Before the Independecy Decleration Israel didn't have a capital city.
+25;History;The Balfour Declaration was signed on 1917.
+26;History;The official Symbol of Israel Is The Menora.
+27;History;The Uzi gun was named after Uzi Gal.
+28;History;The name of Israel's law department is "Hakneset".
+29;History;Five people from Israel had won an Olimpic Medal.
+30;History;Yad Vashem was established on 1953.
+31;History;Itzhak Rabin was chosen for "person of the year" of Time magazine.
+32;History;Jorden is the country with the longest border with israel.
+33;History;Giraffes are Kosher...
+34;History;The Eurovision was in Israel twice.
+35;History;Ruven Rivlin is vegeterian.
+36;History;The first page on the hebrew Wikipedia was about math.
+37;History;The piece with Egypt was signed on 1978.
+38;History;Naftali Hertz Imber wrote "The Tikva".
+39;History;Between the two Lebanon wars there was 24 years.
+40;History;The first commander in chief of the Israel Defense Forces was Jacob Dory

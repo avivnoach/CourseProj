@@ -1,0 +1,13 @@
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.exe
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.deps.json
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.runtimeconfig.json
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.runtimeconfig.dev.json
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.dll
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\bin\Debug\netcoreapp3.1\CourseProjQ1.pdb
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.csprojAssemblyReference.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.AssemblyInfoInputs.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.AssemblyInfo.cs
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.csproj.CoreCompileInputs.cache
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.dll
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.pdb
+C:\Users\mairn\OneDrive\שולחן העבודה\פרוייקט רופין\CourseProjQ1\CourseProjQ1\obj\Debug\netcoreapp3.1\CourseProjQ1.genruntimeconfig.cache
